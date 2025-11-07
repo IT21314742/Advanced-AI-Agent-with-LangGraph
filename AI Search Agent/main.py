@@ -1,2 +1,2 @@
 def main():
-    print("Hello from ai-se
+    print("Hello from ai-s
