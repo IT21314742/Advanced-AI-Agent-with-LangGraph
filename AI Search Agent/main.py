@@ -1,2 +1,2 @@
 def main():
-    print("Hello from ai-search-agent!"
+    print("Hello from ai-search-agent!
