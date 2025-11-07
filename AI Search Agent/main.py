@@ -1,1 +1,1 @@
-def ma
+def m
