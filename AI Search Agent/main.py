@@ -1,2 +1,2 @@
 def main():
-    print("Hello from ai-searc
+    print("Hello from ai-sear
