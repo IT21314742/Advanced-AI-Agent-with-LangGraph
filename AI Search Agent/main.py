@@ -1,2 +1,2 @@
 def main():
-    print("Hello fro
+    print("Hello fr
