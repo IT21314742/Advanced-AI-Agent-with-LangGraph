@@ -1,2 +1,2 @@
 def main():
-    print("Hello from ai-search-age
+    print("Hello from ai-search-a
