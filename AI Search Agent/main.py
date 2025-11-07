@@ -2,4 +2,4 @@ def main():
     print("Hello from ai-search-agent!")
 
 
-if __name__ == "__main
+if __name__ == "__mai
