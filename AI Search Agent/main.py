@@ -2,4 +2,4 @@ def main():
     print("Hello from ai-search-agent!")
 
 
-if __name_
+if __name
