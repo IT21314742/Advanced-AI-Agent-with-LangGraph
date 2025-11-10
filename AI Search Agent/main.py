@@ -14,4 +14,4 @@ load_dotenv()
 llm = init_chat_model("gpt-4o")
 
 class state(TypedDict):
-messages: Annotated[list, add_messages]
+    messages: Annotated[list, add_messages]
