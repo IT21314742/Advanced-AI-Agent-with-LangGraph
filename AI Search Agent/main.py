@@ -12,4 +12,3 @@ from pydantic import BaseModel, Field
 load_dotenv()
 
 llm = init_chat_model("gpt-4o")
-
