@@ -1,2 +1,2 @@
 from dotenv import load_dotenv
-from typing
+from typing import
