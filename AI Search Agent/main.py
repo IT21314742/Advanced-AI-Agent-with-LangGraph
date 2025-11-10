@@ -1,1 +1,1 @@
-from dotenv import
+from dotenv import load_dotenv
