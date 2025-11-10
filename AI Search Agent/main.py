@@ -13,5 +13,5 @@ load_dotenv()
 
 llm = init_chat_model("gpt-4o")
 
-class
+class state
 messages: Annotated[list, add_messages]
