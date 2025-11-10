@@ -11,4 +11,4 @@ from pydantic import BaseModel, Field
 
 load_dotenv()
 
-llm = init_chat_model
+llm = init_chat_model()
