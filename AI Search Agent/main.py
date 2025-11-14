@@ -29,4 +29,4 @@ class state(TypedDict):
 def google_search(state: State):
     return
 
-def bing_search()
+def bing_search(state)
