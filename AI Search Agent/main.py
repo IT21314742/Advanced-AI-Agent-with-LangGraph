@@ -20,3 +20,4 @@ class state(TypedDict):
     bing_results: str | None
     reddit_results: str | None
     selected_reddit_urls: list[str] | None
+    
