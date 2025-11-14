@@ -25,3 +25,4 @@ class state(TypedDict):
     bing_analysis: str | None
     reddit_analysis: str | None
     final_answer: str | None
+    
