@@ -19,4 +19,4 @@ class state(TypedDict):
     google_results: str | None
     bing_results: str | None
     reddit_results: str | None
-    selected
+    selected_reddit
