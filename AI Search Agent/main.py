@@ -17,4 +17,4 @@ class state(TypedDict):
     messages: Annotated[list, add_messages]
     user_question: str | None
     google_results: str | None
-    bing
+    bing_results
