@@ -18,3 +18,4 @@ class state(TypedDict):
     user_question: str | None
     google_results: str | None
     bing_results: str | None
+    
