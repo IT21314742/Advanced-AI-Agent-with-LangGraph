@@ -23,4 +23,4 @@ class state(TypedDict):
     reddit_post_data: list | None
     google_analysis: str | None
     bing_analysis: str | None
-    
+    reddit
