@@ -26,4 +26,3 @@ class state(TypedDict):
     reddit_analysis: str | None
     final_answer: str | None
 
-    
