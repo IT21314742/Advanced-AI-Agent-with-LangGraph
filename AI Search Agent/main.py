@@ -22,3 +22,4 @@ class state(TypedDict):
     selected_reddit_urls: list[str] | None
     reddit_post_data: list | None
     google_analysis: str | None
+    
