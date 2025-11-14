@@ -24,4 +24,4 @@ class state(TypedDict):
     google_analysis: str | None
     bing_analysis: str | None
     reddit_analysis: str | None
-    final_answer: str
+    final_answer: str |
