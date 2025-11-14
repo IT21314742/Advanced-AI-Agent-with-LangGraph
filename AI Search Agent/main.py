@@ -16,4 +16,4 @@ llm = init_chat_model("gpt-4o")
 class state(TypedDict):
     messages: Annotated[list, add_messages]
     user_question: str | None
-    google_results: str |
+    google_results: str | 
