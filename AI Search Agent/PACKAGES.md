@@ -11,4 +11,4 @@ Please Consider below packages before you run the application
                 - Langchain
                 - chat models
                 - typing_extentions
-                - 
+                - TYPEDIRECT
