@@ -12,4 +12,4 @@ Please Consider below packages before you run the application
                 - chat models
                 - typing_extentions
                 - TYPEDIRECT
-                - pydan
+                - pydanti
