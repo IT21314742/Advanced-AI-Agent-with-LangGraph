@@ -10,4 +10,4 @@ Please Consider below packages before you run the application
                 - message
                 - Langchain
                 - chat models
-                - typing_
+                - typing_extentions
