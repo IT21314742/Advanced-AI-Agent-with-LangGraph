@@ -44,4 +44,4 @@ def analyze_google_results(state: State):
 def analyze_bing_results(state: State):
     return
 
-def 
+def synthesize
