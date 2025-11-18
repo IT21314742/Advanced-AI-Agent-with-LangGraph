@@ -46,3 +46,4 @@ def analyze_bing_results(state: State):
 
 def synthesize_analysis(state: State):
     return
+
