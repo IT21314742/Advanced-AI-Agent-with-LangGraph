@@ -38,6 +38,6 @@ def reddit_search(state: State):
 def analyze_reddit_posts(state: State):
     return
 
-def (state: State):
+def analyze(state: State):
     return
 
