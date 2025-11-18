@@ -38,6 +38,6 @@ def reddit_search(state: State):
 def analyze_reddit_posts(state: State):
     return
 
-def google_sea(state: State):
+def google_se(state: State):
     return
 
