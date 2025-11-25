@@ -49,4 +49,4 @@ def synthesize_analysis(state: State):
 
 graph_builder = StateGraph(State)
 
-graph_builder.add
+graph_builder.add_node
