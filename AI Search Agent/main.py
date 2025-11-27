@@ -29,26 +29,9 @@ class state(TypedDict):
 def google_search(state: State):
     return
 
-def bing_search(state: State):
+def bing_search(state: Stat e):
     return
 
 def reddit_search(state: State):
     return
 
-def analyze_reddit_posts(state: State):
-    return
-
-def analyze_google_results(state: State):
-    return
-
-def analyze_bing_results(state: State):
-    return
-
-def synthesize_analysis(state: State):
-    return
-
-graph_builder = StateGraph(State)
-
-graph_builder.add_node("google_search", google_search)
-graph_builder.add_node("bing_search", bing_search)
-graph_builder.add_node("reddit_search", reddit_search)
