@@ -38,7 +38,7 @@ def google_search(state: State):
     bing_results = serp_search(user_question, engine="bing")
     
     
-    return {"google"}
+    return {"google_"}
 
 def bing_search(state: State):
     return
