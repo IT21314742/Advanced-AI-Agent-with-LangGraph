@@ -35,6 +35,7 @@ def google_search(state: State):
     user_question = state.get("user_question","")
     print(f"Searching Bing for: {user_question}")
     
+    
     return
 
 def bing_search(state: State):
