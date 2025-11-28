@@ -28,7 +28,7 @@ class state(TypedDict):
     final_answer: str | None
 
 class RedditURLAnalysis(BaseModel):
-    selected_urls: list[str]
+    selected_urls: list[str] = 
 def google_search(state: State):
     return
 
