@@ -30,6 +30,7 @@ class state(TypedDict):
 class RedditURLAnalysis(BaseModel):
     selected_urls: list[str] = Field(description= "List of reddit URLs that contain valuable information for answering the user's question")
     
+    
 def google_search(state: State):
     return
 
