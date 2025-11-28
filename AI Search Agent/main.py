@@ -27,6 +27,7 @@ class state(TypedDict):
     reddit_analysis: str | None
     final_answer: str | None
 
+
 def google_search(state: State):
     return
 
