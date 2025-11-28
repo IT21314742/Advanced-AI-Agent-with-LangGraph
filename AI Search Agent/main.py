@@ -32,7 +32,7 @@ class RedditURLAnalysis(BaseModel):
     
     
 def google_search(state: State):
-    user_question = state
+    user_question = state.
     return
 
 def bing_search(state: State):
