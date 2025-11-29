@@ -35,7 +35,7 @@ def google_search(state: State):
     user_question = state.get("user_question","")
     print(f"Searching Google for: {user_question}")
     
-    bing_results = serp_search(user_question, engine="google")
+    google_results = serp_search(user_question, engine="google")
     
     
     return {"google_results": google_results}
