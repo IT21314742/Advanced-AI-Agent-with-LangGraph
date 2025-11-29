@@ -40,6 +40,7 @@ def google_search(state: State):
     
     return {"google_results": google_results}
 
+
 def bing_search(state: State):
     return
 
