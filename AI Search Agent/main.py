@@ -45,7 +45,7 @@ def google_search(state: State):
 
 def bing_search(state: State):
     user_question = state.get("user_question", "")
-    print()
+    print(f)
     return
 
 def reddit_search(state: State):
