@@ -47,7 +47,7 @@ def bing_search(state: State):
     user_question = state.get("user_question", "")
     print(f"Searching Bing for: {user_question}")
     
-    bing_results = serp_search(user_question, engine="")
+    bing_results = serp_search(user_question, engine="bing")
     return
 
 def reddit_search(state: State):
