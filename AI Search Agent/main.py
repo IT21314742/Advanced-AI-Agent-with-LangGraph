@@ -57,6 +57,6 @@ def reddit_search(state: State):
     print(f"Searching Reddit for: {user_question}")
 
 
-    reddit_results = reddit
+    reddit_results = reddit_
     return
 
