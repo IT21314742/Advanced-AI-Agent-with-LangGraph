@@ -58,6 +58,6 @@ def reddit_search(state: State):
 
 
     reddit_results = reddit_search_api(keyword=user_question)
-    print()
+    print(reddit)
     return
 
