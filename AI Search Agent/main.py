@@ -61,5 +61,5 @@ def reddit_search(state: State):
     print(reddit_results)
 
 
-    return {"reddit_results": reddit_}
+    return {"reddit_results": reddit_results}
 
