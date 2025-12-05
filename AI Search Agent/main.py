@@ -72,6 +72,6 @@ def analyze_reddit_posts(state: State):
         return {"selected_reddit_urls": []}
     
     structured_llm = llm.with_structutred_output(RedditURLAnalysis)
-    messages = get_reddit_url
+    messages = get_reddit_url_analysis
 
 
