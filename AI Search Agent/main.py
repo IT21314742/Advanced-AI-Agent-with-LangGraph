@@ -76,6 +76,6 @@ def analyze_reddit_posts(state: State):
 
 
     try:
-        analysis = 
+        analysis = structured_llm
 
 
