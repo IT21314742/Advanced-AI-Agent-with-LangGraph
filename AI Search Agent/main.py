@@ -71,6 +71,6 @@ def analyze_reddit_posts(state: State):
     if not reddit_results:
         return {"selected_reddit_urls": []}
     
-    structured
+    structured_
 
 
