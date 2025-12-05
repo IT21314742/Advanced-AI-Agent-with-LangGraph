@@ -69,6 +69,6 @@ def analyze_reddit_posts(state: State):
     reddit_results = state.get("reddit_results", "")
 
     if not reddit_results:
-        return {"selected_reddit"}
+        return {"selected_reddit_urls"}
 
 
