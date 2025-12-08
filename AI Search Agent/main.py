@@ -89,6 +89,6 @@ def analyze_reddit_posts(state: State):
         print(e)
         selected_urls = []
 
-    return {"selected_reddit_urls": selected}
+    return {"selected_reddit_urls": selected_}
 
 
