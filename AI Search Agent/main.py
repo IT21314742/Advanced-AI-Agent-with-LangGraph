@@ -93,6 +93,6 @@ def analyze_reddit_posts(state: State):
 
 
 
-def retrieve_reddit_posts
+def retrieve_reddit_posts()
 
 
