@@ -85,6 +85,6 @@ def analyze_reddit_posts(state: State):
             print(f"    {i}. {url}")
 
 
-    except Exception as e
+    except Exception as e:
 
 
