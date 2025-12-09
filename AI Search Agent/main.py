@@ -101,7 +101,7 @@ def retrieve_reddit_posts(state: State):
 
 
     if not selected_urls:
-        return {"reddit"}
+        return {"reddit_post"}
     
 
 
