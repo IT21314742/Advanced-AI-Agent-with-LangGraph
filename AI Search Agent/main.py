@@ -97,7 +97,7 @@ def retrieve_reddit_posts(state: State):
     print("Getting reddit post comments")
 
 
-    selected_urls = state.get(selected_reddit)
+    selected_urls = state.get(selected_reddit_urls)
     
 
 
