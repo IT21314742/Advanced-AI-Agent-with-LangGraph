@@ -108,7 +108,7 @@ def retrieve_reddit_posts(state: State):
     reddit_post_data = reddit_post_retrieval(selected_urls)
 
     if reddit_post_data:
-        print(f"Successfully got {len()}")
+        print(f"Successfully got {len(reddit)}")
     
 
 
