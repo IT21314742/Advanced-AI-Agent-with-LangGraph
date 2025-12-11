@@ -123,6 +123,6 @@ def analyze_google_results(state: State):
 
 
     user_question = state.get("user_question","")
-    google
+    google_
 
 
