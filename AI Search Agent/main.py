@@ -118,6 +118,6 @@ def retrieve_reddit_posts(state: State):
     return {"reddit_post_data": reddit_post_data}
 
 
-def analyze_google_results(state: )
+def analyze_google_results(state: State)
 
 
