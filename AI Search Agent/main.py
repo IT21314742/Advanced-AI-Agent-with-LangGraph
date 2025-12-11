@@ -122,6 +122,7 @@ def analyze_google_results(state: State):
     print("Analyzing google search results")
 
 
-    user_question = state.get("user_")
+    user_question = state.get("user_question","")
+    
 
 
