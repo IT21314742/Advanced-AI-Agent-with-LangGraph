@@ -112,6 +112,7 @@ def retrieve_reddit_posts(state: State):
     else:
         print("Failed to get post data")
         reddit_post_data = []
+        
     
 
 
