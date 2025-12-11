@@ -110,7 +110,7 @@ def retrieve_reddit_posts(state: State):
     if reddit_post_data:
         print(f"Successfully got {len(reddit_post_data)} posts")
     else:
-        
+        print
     
 
 
