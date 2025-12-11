@@ -114,7 +114,7 @@ def retrieve_reddit_posts(state: State):
         reddit_post_data = []
 
     
-    print(reddit post)
+    print(reddit_)
     
 
 
