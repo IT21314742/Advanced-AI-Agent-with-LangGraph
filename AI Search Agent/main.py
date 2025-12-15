@@ -126,4 +126,3 @@ def analyze_google_results(state: State):
     google_results = state.get("google_results", "")
 
     messages = get_google_analysis_messages(user_question)
-
