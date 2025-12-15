@@ -129,4 +129,4 @@ def analyze_google_results(state: State):
     reply = llm.invoke(messages)
 
 
-    return {"google_analysis": reply.}
+    return {"google_analysis": reply.content}
