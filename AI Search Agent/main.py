@@ -142,3 +142,4 @@ def analyze_bing_results(state: State):
     reply = llm.invoke(messages)
 
     return {"bing_analysis": reply.content}
+
