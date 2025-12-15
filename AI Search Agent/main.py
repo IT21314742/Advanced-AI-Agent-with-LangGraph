@@ -132,4 +132,4 @@ def analyze_google_results(state: State):
     return {"google_analysis": reply.content}
 
 
-def analyze
+def analyze_bing
