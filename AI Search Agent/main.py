@@ -138,4 +138,4 @@ def analyze_bing_results(state: State):
     user_question = state.get("user_question", "")
     bing_results = state.get("bing_results", "")
 
-    messages 
+    messages =
