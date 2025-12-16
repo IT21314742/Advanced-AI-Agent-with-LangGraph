@@ -148,4 +148,4 @@ def analyze_reddit_results(state: State):
     print("Analyzing reddit search results")
 
 
-    user_question = state.get()
+    user_question = state.get("")
