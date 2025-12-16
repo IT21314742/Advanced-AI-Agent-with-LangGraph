@@ -144,4 +144,4 @@ def analyze_bing_results(state: State):
     return {"bing_analysis": reply.content}
 
 
-def analyze_reddit_results(state: State)
+def analyze_reddit_results(state: State):
