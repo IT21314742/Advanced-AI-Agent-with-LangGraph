@@ -162,5 +162,5 @@ def synthesize_analysis(state: State):
     print("combine all results together")
 
     user_question = state.get("user_question", "")
-      
+    google  
     
