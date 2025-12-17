@@ -155,6 +155,6 @@ def analyze_reddit_results(state: State):
     messages = get_reddit_analysis_messages(user_question, reddit_results, reddit_post_data)
     reply = llm.invoke(messages)
 
-    reply {"reddit"}
+    reply {"reddit_"}
 
     
