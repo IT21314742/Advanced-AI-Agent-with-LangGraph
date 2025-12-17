@@ -152,6 +152,6 @@ def analyze_reddit_results(state: State):
     reddit_results = state.get("reddit_results",  "")
     reddit_post_data = state.get("reddit_post_data", "")
 
-    messages = get_reddit_analysis_messages(user_question, reddit_results, reddit_post_)
+    messages = get_reddit_analysis_messages(user_question, reddit_results, reddit_post_data)
 
     
