@@ -159,5 +159,5 @@ def analyze_reddit_results(state: State):
 
 
 def synthesize_analysis(state: State):
-    print("combine all results")    
+    print("combine all results together")    
     
