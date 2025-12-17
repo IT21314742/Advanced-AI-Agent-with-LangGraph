@@ -158,5 +158,6 @@ def analyze_reddit_results(state: State):
     reply {"reddit_analysis": reply.content}
 
 
-def synthesize_analysis(state: State):    
+def synthesize_analysis(state: State):
+        
     
