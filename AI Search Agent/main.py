@@ -163,5 +163,5 @@ def synthesize_analysis(state: State):
 
     user_question = state.get("user_question", "")
     google_analysis = state.get("google_Analysis", "")
-    bing_analysis = state.get("")  
+    bing_analysis = state.get("bing")  
     
