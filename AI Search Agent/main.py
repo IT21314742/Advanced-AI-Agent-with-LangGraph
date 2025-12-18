@@ -167,6 +167,6 @@ def synthesize_analysis(state: State):
     reddit_analysis = state.get("reddit_analysis", "")
 
     messages = get_synthesis_messages(
-        user_question, 
+        user_question, google
     )  
     
