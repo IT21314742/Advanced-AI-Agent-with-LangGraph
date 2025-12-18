@@ -166,5 +166,7 @@ def synthesize_analysis(state: State):
     bing_analysis = state.get("bing_analysis", "")
     reddit_analysis = state.get("reddit_analysis", "")
 
-    messages = get_synthesis_messages()  
+    messages = get_synthesis_messages(
+        
+    )  
     
