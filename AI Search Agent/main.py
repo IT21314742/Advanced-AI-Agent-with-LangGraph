@@ -174,4 +174,4 @@ def synthesize_analysis(state: State):
     final_answer = reply.content
 
 
-    return 
+    return {}
