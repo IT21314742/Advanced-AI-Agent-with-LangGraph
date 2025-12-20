@@ -177,4 +177,4 @@ def synthesize_analysis(state: State):
     return {"final_answer": final_answer, "messages": [{"role": "assistant", "content": final_answer}]}
 
 
-graph_builder = 
+graph_builder = State
