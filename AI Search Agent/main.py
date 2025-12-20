@@ -174,4 +174,4 @@ def synthesize_analysis(state: State):
     final_answer = reply.content
 
 
-    return {"final_answer": final_answer, "messages": [{"role": "assistant", "content": final_}]}
+    return {"final_answer": final_answer, "messages": [{"role": "assistant", "content": final_answer}]}
