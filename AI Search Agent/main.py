@@ -180,4 +180,4 @@ def synthesize_analysis(state: State):
 graph_builder = StateGraph(State)
 
 graph_builder.add_node("google_search", google_search)
-graph_builder.add_node("")
+graph_builder.add_node("bing")
