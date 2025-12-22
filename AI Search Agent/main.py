@@ -190,5 +190,5 @@ graph_builder.add_node("synthesize_analysis", synthesize_analysis)
 
 
 graph_builder.add_edge(START, "google_search")
-graph_builder.add_edge(START,)
+graph_builder.add_edge(START, )
                                                         
