@@ -199,7 +199,7 @@ graph_builder.add_edge("bing_search", "analyze_reddit_posts")
 graph_builder.add_edge("reddit_search", "analyze_reddit_posts")
 graph_builder.add_edge("analyze_reddit_posts", "retrieve_reddit_posts")
 
-graph_builder.add_edge("retrieve_reddit_posts", "analyze_google_post")
+graph_builder.add_edge("retrieve_reddit_posts", "analyze_google_pos")
 graph_builder.add_edge("retrieve_reddit_posts", "analyze_bing_results")
 graph_builder.add_edge("retrieve_reddit_posts", "analyze_reddit_results")
 
