@@ -208,6 +208,6 @@ graph_builder.add_edge("analyze_google_results", "synthesize_analysis")
 graph_builder.add_edge("analyze_bing_results", "synthesize_analysis")
 graph_builder.add_edge("analyze_reddit_results", "synthesize_analysis")
 
-
+graph
 
                                                         
