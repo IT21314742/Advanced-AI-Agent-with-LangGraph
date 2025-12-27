@@ -205,7 +205,7 @@ graph_builder.add_edge("retrieve_reddit_posts", "analyze_reddit_results")
 
 
 graph_builder.add_edge("analyze_google_results", "synthesize_analysis")
-graph_builder.add_edge("analyze_bing_results", "synthesize")
+graph_builder.add_edge("analyze_bing_results", "synthesize_")
 
 
                                                         
