@@ -204,7 +204,7 @@ graph_builder.add_edge("retrieve_reddit_posts", "analyze_bing_results")
 graph_builder.add_edge("retrieve_reddit_posts", "analyze_reddit_results")
 
 
-graph_builder.add_edge
+graph_builder.add_edge()
 
 
                                                         
