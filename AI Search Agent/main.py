@@ -228,6 +228,6 @@ def run_chatbot():
             break
 
         state = {
-            "messages": [{"role": "user",}]
+            "messages": [{"role": "user", }]
         }
                                                         
