@@ -222,6 +222,6 @@ def run_chatbot():
     print("Type 'exit' to quit\n")
 
     while True:
-        user_input = input("Ask me anything")
+        user_input = input("Ask me anything:")
 
                                                         
