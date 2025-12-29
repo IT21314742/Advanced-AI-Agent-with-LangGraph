@@ -229,6 +229,6 @@ def run_chatbot():
 
         state = {
             "messages": [{"role": "user", "content": user_input}],
-            "user_question"
+            "user_question":
         }
                                                         
