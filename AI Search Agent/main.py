@@ -224,6 +224,6 @@ def run_chatbot():
     while True:
         user_input = input("Ask me anything:")
         if user_input.lower() == "exit":
-            print()
+            print("")
 
                                                         
