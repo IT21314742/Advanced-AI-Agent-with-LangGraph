@@ -218,6 +218,6 @@ graph = graph_builder.compile()
 
 
 def run_chatbot():
-    print("Multi-source Research")
+    print("Multi-source Research Agent")
 
                                                         
