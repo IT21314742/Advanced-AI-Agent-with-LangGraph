@@ -237,6 +237,6 @@ def run_chatbot():
             "reddit_post_data": None,
             "google_analysis": None,
             "bing_analysis": None,
-            
+            ""
         }
                                                         
