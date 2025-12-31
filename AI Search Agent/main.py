@@ -242,5 +242,5 @@ def run_chatbot():
         }
 
 
-        print("\nStart")
+        print("\nStarting")
                                                         
