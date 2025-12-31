@@ -232,6 +232,6 @@ def run_chatbot():
             "user_question": user_input,
             "google_results": None,
             "bing_results": None,
-            "reddit_results"
+            "reddit_results":
         }
                                                         
