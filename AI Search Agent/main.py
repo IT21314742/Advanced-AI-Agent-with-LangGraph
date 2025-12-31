@@ -236,6 +236,6 @@ def run_chatbot():
             "selected_reddit_urls": None,
             "reddit_post_data": None,
             "google_analysis": None,
-            "bing_"
+            "bing_ana"
         }
                                                         
