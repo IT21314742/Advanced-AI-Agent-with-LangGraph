@@ -242,5 +242,5 @@ def run_chatbot():
         }
 
 
-        print("\nStarting parallel research process")
+        print("\nStarting parallel research process.")
                                                         
