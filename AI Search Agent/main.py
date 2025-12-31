@@ -231,6 +231,6 @@ def run_chatbot():
             "messages": [{"role": "user", "content": user_input}],
             "user_question": user_input,
             "google_results": None,
-            "bing_results": 
+            "bing_results": None
         }
                                                         
