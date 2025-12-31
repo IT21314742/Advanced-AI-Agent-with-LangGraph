@@ -238,6 +238,6 @@ def run_chatbot():
             "google_analysis": None,
             "bing_analysis": None,
             "reddit_analysis": None,
-            "final_"
+            "final_answer"
         }
                                                         
