@@ -235,6 +235,6 @@ def run_chatbot():
             "reddit_results": None,
             "selected_reddit_urls": None,
             "reddit_post_data": None,
-            "goo"
+            "google"
         }
                                                         
