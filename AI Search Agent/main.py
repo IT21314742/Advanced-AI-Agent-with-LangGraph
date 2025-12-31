@@ -233,6 +233,6 @@ def run_chatbot():
             "google_results": None,
             "bing_results": None,
             "reddit_results": None,
-            "selected"
+            "selected_"
         }
                                                         
