@@ -243,5 +243,5 @@ def run_chatbot():
 
 
         print("\nStarting parallel research process...")
-        print("La")
+        print("Lau")
                                                         
