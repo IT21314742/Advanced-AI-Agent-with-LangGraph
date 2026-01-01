@@ -243,5 +243,5 @@ def run_chatbot():
 
 
         print("\nStarting parallel research process...")
-        print("Launching Google, Bing, and Reddit sear")
+        print("Launching Google, Bing, and Reddit searc")
                                                         
