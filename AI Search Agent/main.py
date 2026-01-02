@@ -246,5 +246,5 @@ def run_chatbot():
         print("Launching Google, Bing, and Reddit searches...\n")
         final_state = graph.invoke(state)
 
-        if final_state.get("final_ans")
+        if final_state.get("final_answ")
                                                         
