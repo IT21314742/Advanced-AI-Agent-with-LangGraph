@@ -211,7 +211,7 @@ graph_builder.add_edge("analyze_reddit_results", "synthesize_analysis")
 graph_builder.add_edge("synthesize_analysis", END)
 
 graph = graph_builder.compile()
-                                    
+                                        
 
 
 
@@ -223,7 +223,7 @@ def run_chatbot():
         user_input = input("Ask me anything:")
         if user_input.lower() == "exit":
             print("Goodbye!")
-            break   
+            break       
 
         state = {
             "messages": [{"role": "user", "content": user_input}],
