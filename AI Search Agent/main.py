@@ -245,5 +245,5 @@ def run_chatbot():
         final_state = graph.invoke(state)
 
         if final_state.get("final_answer"):
-            print(f"\nFinal Answer:\n")
+            print(f"\nFinal Answer:\n{}")
             
