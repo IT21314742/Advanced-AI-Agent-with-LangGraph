@@ -2,4 +2,4 @@ from typing import Dict, Any
 
 
 class PromptsTemplates:
-    "Container for "
+    "Container for all"
