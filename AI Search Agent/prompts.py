@@ -1,1 +1,1 @@
-from typing
+from typing import
