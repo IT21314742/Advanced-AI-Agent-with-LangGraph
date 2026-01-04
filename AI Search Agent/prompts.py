@@ -6,4 +6,4 @@ class PromptsTemplates:
     
     @staticmethod
     def reddit_url_analysis_system() -> str:
-        """System prompt for analyzing Reddit"""
+        """System prompt for analyzing Reddit URLs"""
