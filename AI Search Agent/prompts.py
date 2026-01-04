@@ -6,4 +6,4 @@ class PromptsTemplates:
     
     @staticmethod
     def reddit_url_analysis_system() -> str:
-        """System"""
+        """System """
