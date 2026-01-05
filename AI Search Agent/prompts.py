@@ -10,6 +10,6 @@ class PromptsTemplates:
         return """You are an expert at analyzing social media content. Your task is to examine Reddit search results and identify the most relevent posts that would provide valuable additional information for answering the user's question
         
         
-Analyze the provided Reddit results and identify URLs of the posts that contain valueble"""
+Analyze the provided Reddit results and identify URLs of the posts that contain valueble """
     
 
