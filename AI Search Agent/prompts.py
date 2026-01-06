@@ -13,6 +13,6 @@ class PromptsTemplates:
 Analyze the provided Reddit results and identify URLs of the posts that contain valueble information worth investigating further. Focus on posts that:
 - Directly address to the user's question
 - Official websites, documentation, and reliable sources
-- Key statistics, dates, """
+- Key statistics, dates, and"""
     
 
