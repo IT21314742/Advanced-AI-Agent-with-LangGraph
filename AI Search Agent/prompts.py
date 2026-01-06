@@ -14,6 +14,6 @@ Analyze the provided Reddit results and identify URLs of the posts that contain 
 - Directly address to the user's question
 - Official websites, documentation, and reliable sources
 - Key statistics, dates, and verified information
-- Any conflicting information """
+- Any conflicting information from"""
     
 
