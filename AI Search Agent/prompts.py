@@ -22,5 +22,5 @@ Provide a concise analysis highlighting the most relevent findings."""
 
 
     @staticmethod
-    def google_analysis_user(user_question: str, google_results: str)
+    def google_analysis_user(user_question: str, google_results: str) 
 
