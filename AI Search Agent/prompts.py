@@ -31,6 +31,6 @@ Google Search Results: {google_results}
 Please analyze these Google results and extract the key insights that help answer the question."""
     
     @staticmethod
-    def bing_analysis_system() 
+    def bing_analysis_system() -
 
 
