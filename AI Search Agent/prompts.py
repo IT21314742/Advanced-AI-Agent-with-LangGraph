@@ -28,6 +28,6 @@ Provide a concise analysis highlighting the most relevent findings."""
 
 Google Search Results: {google_results}
 
-Please analyze these Google results and extract the key insights that help answer"""
+Please analyze these Google results and extract the key insights that help answer """
 
 
