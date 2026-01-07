@@ -26,6 +26,6 @@ Provide a concise analysis highlighting the most relevent findings."""
         """User prompt for analyzing Google search results."""
         return f"""Question: {user_question}
 
-Google Search 
+Google Search Results
 
 
