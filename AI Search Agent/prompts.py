@@ -32,6 +32,6 @@ Please analyze these Google results and extract the key insights that help answe
     
     @staticmethod
     def bing_analysis_system() -> str:
-        """System prompt for"""
+        """System prompt for """
 
 
