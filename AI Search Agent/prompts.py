@@ -19,4 +19,3 @@ Analyze the provided Reddit results and identify URLs of the posts that contain 
 - Provide unique perspectives or insights 
 
 Return a structured response with the selected URLs."""
-
