@@ -23,4 +23,4 @@ Return a structured response with the selected URLs."""
     @staticmethod
     def reddit_url_analysis_user(user_question: str, reddit_results: str) -> str:
         """User prompt for analyzing Reddit URLs."""
-        return f"""User Question:
+        return f"""User Question: 
