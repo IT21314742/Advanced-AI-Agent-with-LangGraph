@@ -21,6 +21,7 @@ Analyze the provided Reddit results and identify URLs of the posts that contain 
 Provide a concise analysis highlighting the most relevent findings."""
 
 
+
     @staticmethod
     def google_analysis_user(user_question: str, google_results: str) -> str:
         """User prompt for analyzing Google search results."""
