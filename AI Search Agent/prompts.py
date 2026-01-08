@@ -15,7 +15,7 @@ class PromptsTemplates:
 Analyze the provided Reddit results and identify URLs of the posts that contain valueble information worth investigating further. Focus on posts that:
 - Directly address to the user's question
 - Contain detailed discussions or expert opinions
-- Have high engagement (upvotes)
+- Have high engagement (upvotes,)
 - Any conflicting information from Different sources 
 
 
