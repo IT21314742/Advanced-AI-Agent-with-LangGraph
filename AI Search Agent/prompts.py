@@ -22,23 +22,3 @@ Return a structured response with the selected URLs."""
 
 
 
-Provide a concise analysis highlighting the most relevent findings."""
-
-
-
-
-    @staticmethod
-    def google_analysis_user(user_question: str, google_results: str) -> str:
-        """User prompt for analyzing Google search results."""
-        return f"""Question: {user_question}
-
-Google Search Results: {google_results}
-
-Please analyze these Google results and extract the key insights that help answer the question."""
-    
-    @staticmethod
-    def bing_analysis_system() -> str:
-        """System prompt for analyzing Bing search results."""
-        return """You are an """
-
-
