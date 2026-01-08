@@ -27,4 +27,4 @@ Return a structured response with the selected URLs."""
 
 reddit Results: {reddit_results}
 
-Please analyze these reddit results and identify the most 
+Please analyze these reddit results and identify the most valuable
