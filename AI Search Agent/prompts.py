@@ -21,4 +21,4 @@ Analyze the provided Reddit results and identify URLs of the posts that contain 
 Return a structured response with the selected URLs."""
 
     @staticmethod
-    def reddit_url_analysis_
+    def reddit_url_analysis_user
