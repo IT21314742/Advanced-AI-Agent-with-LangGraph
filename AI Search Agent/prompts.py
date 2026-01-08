@@ -30,4 +30,4 @@ reddit Results: {reddit_results}
 Please analyze these reddit results and identify the most valuable posts for answering the user's question."""
     
     @staticmethod
-    def google_
+    def google_analysis
