@@ -35,4 +35,5 @@ Please analyze these reddit results and identify the most valuable posts for ans
         return """You are an expert research analyst. Analyze the provided Google search results to extract key insights that answer the user's question.
 
 Focus on:
-- Main factual information and athoritative sources"""
+- Main factual information and athoritative sources
+"""
