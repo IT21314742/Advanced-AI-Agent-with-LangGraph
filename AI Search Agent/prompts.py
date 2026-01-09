@@ -37,4 +37,4 @@ Please analyze these reddit results and identify the most valuable posts for ans
 Focus on:
 - Main factual information and athoritative sources
 - Official websites, documentation, and reliable publications
-- key statistics, dates, andverified"""
+- key statistics, dates, and verified"""
