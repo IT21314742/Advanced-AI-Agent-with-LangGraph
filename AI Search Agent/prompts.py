@@ -34,4 +34,5 @@ Please analyze these reddit results and identify the most valuable posts for ans
         """System prompt for analyzing google search results."""
         return """You are an expert research analyst. Analyze the provided Google search results to extract key insights that answer the user's question.
 
-Focus on:"""
+Focus on:
+"""
