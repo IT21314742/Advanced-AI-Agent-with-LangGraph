@@ -31,4 +31,4 @@ Please analyze these reddit results and identify the most valuable posts for ans
     
     @staticmethod
     def google_analysis_system() -> str:
-        """System prompt for analyzing"""
+        """System prompt for analyzing """
