@@ -44,4 +44,4 @@ Focus on:
 Provide a concise analysis highlighting the most relevant findings."""
 
     @staticmethod
-    def google_analysis
+    def google_analysis_
