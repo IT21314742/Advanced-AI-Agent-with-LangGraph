@@ -47,3 +47,4 @@ Provide a concise analysis highlighting the most relevant findings."""
     def google_analysis_user(user_question: str, google_results: str) -> str:
         """User prompt for analyzing google search results."""
         return f"""Question: {user_question}
+
