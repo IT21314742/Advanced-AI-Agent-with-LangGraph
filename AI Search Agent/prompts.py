@@ -45,4 +45,4 @@ Provide a concise analysis highlighting the most relevant findings."""
 
     @staticmethod
     def google_analysis_user(user_question: str, google_results: str) -> str:
-        """User prompt foranalyzing google search results"""
+        """User prompt foranalyzing google search results."""
