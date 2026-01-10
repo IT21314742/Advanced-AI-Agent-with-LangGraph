@@ -50,4 +50,4 @@ Provide a concise analysis highlighting the most relevant findings."""
 
 Google Search Results: {google_results}
 
-Please analyze these Google
+Please analyze these Google 
