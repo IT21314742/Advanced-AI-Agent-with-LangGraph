@@ -43,4 +43,4 @@ Focus on:
 
 Provide a concise analysis highlighting the most relevant findings."""
 
-    
+    @staticmethod
