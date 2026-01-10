@@ -48,4 +48,4 @@ Provide a concise analysis highlighting the most relevant findings."""
         """User prompt for analyzing google search results."""
         return f"""Question: {user_question}
 
-Google Search Results: {google_}
+Google Search Results: {google_results}
