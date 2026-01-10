@@ -49,3 +49,4 @@ Provide a concise analysis highlighting the most relevant findings."""
         return f"""Question: {user_question}
 
 Google Search Results: {google_results}
+
