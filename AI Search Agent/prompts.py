@@ -51,3 +51,4 @@ Provide a concise analysis highlighting the most relevant findings."""
 Google Search Results: {google_results}
 
 Please analyze these Google results and extract the key insights that help answer the question."""
+
