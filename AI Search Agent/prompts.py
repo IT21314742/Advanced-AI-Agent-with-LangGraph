@@ -56,3 +56,4 @@ Please analyze these Google results and extract the key insights that help answe
     def bing_analysis_system() -> str:
         """System prompt for analyzing bing search results."""
         return """You are an expert research analyst. analyze the provided Bing search results to extract complementary insights that answer the user's question"""
+    
