@@ -61,4 +61,5 @@ Focus on:
 - Additional perspective not covered in other resources
 - Technical details and documentation
 - News articles and recent developments
-- Microsoft ecosystem and enterprise perspectives"""    
+- Microsoft ecosystem and enterprise perspectives
+"""    
