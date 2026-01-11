@@ -58,5 +58,6 @@ Please analyze these Google results and extract the key insights that help answe
         return """You are an expert research analyst. analyze the provided Bing search results to extract complementary insights that answer the user's question
     
 Focus on:
-- Additional perspective not covered in other resources"""
+- Additional perspective not covered in other resources
+-"""
     
