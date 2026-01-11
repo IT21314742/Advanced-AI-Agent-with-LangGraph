@@ -64,4 +64,5 @@ Focus on:
 - Microsoft ecosystem and enterprise perspectives
 
 Provide a concise analysis highlighting unique findings and perspectives"""
+
     
