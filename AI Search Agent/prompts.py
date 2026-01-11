@@ -60,4 +60,4 @@ Please analyze these Google results and extract the key insights that help answe
 Focus on:
 - Additional perspective not covered in other resources
 - Technical details and documentation
-- News articles and recent"""    
+- News articles and recent developments"""    
