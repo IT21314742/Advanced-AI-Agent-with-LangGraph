@@ -59,5 +59,5 @@ Please analyze these Google results and extract the key insights that help answe
     
 Focus on:
 - Additional perspective not covered in other resources
--"""
+- """
     
