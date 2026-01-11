@@ -57,4 +57,5 @@ Please analyze these Google results and extract the key insights that help answe
         """System prompt for analyzing bing search results."""
         return """You are an expert research analyst. analyze the provided Bing search results to extract complementary insights that answer the user's question"""
     
-Focus 
+Focus on:
+    
