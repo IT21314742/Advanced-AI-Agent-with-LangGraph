@@ -63,4 +63,4 @@ Focus on:
 - News articles and recent developments
 - Microsoft ecosystem and enterprise perspectives
 
-Provide """    
+Provide a concise"""    
