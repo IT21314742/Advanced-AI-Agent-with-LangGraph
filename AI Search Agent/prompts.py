@@ -72,4 +72,5 @@ Provide a concise analysis highlighting unique findings and perspectives"""
 
 
 Bing Search Results: {bing_results}
+
     
