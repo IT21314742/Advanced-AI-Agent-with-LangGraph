@@ -65,6 +65,6 @@ Focus on:
 
 Provide a concise analysis highlighting unique findings and perspectives"""
 
-    
+    @staticmethod
 
     
