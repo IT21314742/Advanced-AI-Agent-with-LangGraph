@@ -66,6 +66,6 @@ Focus on:
 Provide a concise analysis highlighting unique findings and perspectives"""
 
     @staticmethod
-    def bing_analysis_user
+    def bing_analysis_user()
 
     
