@@ -68,6 +68,6 @@ Provide a concise analysis highlighting unique findings and perspectives"""
     @staticmethod
     def bing_analysis_user(user_question: str, bing_results: str) -> str:
         """User prompt for analyzing Bing search results."""
-        return f"""Question
+        return f"""Question:
 
     
