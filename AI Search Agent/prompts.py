@@ -70,4 +70,5 @@ Provide a concise analysis highlighting unique findings and perspectives"""
         """User prompt for analyzing Bing search results."""
         return f"""Question: {user_question}
 
+
     
