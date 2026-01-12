@@ -71,5 +71,5 @@ Provide a concise analysis highlighting unique findings and perspectives"""
         return f"""Question: {user_question}
 
 
-Bing Search Results: {bing_}
+Bing Search Results: {bing_results}
     
