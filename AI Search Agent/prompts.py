@@ -83,5 +83,6 @@ Please analyze these results and extract insights that complement other search s
         
 Focus on:
 - Real user experiences and testimonials
-- Community consensus and popular opinions"""
+- Community consensus and popular opinions
+"""
     
