@@ -86,5 +86,5 @@ Focus on:
 - Community consensus and popular opinions
 - Practical tips and advice from users
 - Different perspectives and debates
-- Specific quotes"""
+- Specific quotes from"""
     
