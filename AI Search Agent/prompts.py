@@ -76,5 +76,5 @@ Bing Search Results: {bing_results}
 Please analyze these results and extract insights that complement other search sources."""
     
     @staticmethod
-    def reddit_analysis_system() 
+    def reddit_analysis_system() ->
     
