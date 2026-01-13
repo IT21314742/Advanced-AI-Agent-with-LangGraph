@@ -78,5 +78,5 @@ Please analyze these results and extract insights that complement other search s
     @staticmethod
     def reddit_analysis_system() -> str:
         """System prompt for analyzing reddit discussions."""
-        return
+        return 
     
