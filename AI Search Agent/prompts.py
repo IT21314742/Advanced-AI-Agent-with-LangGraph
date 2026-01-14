@@ -93,4 +93,6 @@ IMPORTTANT: When referencing specific content, directly quote it and mention the
 Highlight both positive and negative experiences, controversies, and verying opinions."""
 
     @staticmethod
-    def reddit_analysis_user()
+    def reddit_analysis_user(
+        
+    )
