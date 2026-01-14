@@ -97,4 +97,4 @@ Highlight both positive and negative experiences, controversies, and verying opi
         user_question: str, reddit_results: str, reddit_post_data: list
     ) -> str:
         """User prompt for analyzing Reddit discussions"""
-        return f"""Question
+        return f"""Question:
