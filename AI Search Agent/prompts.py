@@ -90,4 +90,4 @@ Focus on:
     
 
 IMPORTTANT: When referencing specific content, directly quote it and mention the subreddit or context.
-Highlight both positive and negative experiences, controversies, and verying """
+Highlight both positive and negative experiences, controversies, and verying opinions"""
