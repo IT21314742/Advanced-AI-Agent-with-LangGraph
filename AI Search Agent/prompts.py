@@ -107,4 +107,4 @@ Highlight both positive and negative experiences, controversies, and verying opi
     
     @staticmethod
     def synthesis_system() -> str:
-        """System prompt"""
+        """System prompt for"""
