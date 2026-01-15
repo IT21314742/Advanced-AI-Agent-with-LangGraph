@@ -105,4 +105,4 @@ Highlight both positive and negative experiences, controversies, and verying opi
     
     Please analyze this reddit content and extract community insights, user experience, and relevant discussions."""
     
-    @
+    @staticmethod
