@@ -103,4 +103,4 @@ Highlight both positive and negative experiences, controversies, and verying opi
     
     Detailed Reddit Post Data: {reddit_post_data}
     
-    Please analyze this reddit content and extract """
+    Please analyze this reddit content and extract community insights"""
