@@ -100,4 +100,5 @@ Highlight both positive and negative experiences, controversies, and verying opi
         return f"""Question: {user_question}
     
     Reddit Search Results: {reddit_results}
+    
     """
