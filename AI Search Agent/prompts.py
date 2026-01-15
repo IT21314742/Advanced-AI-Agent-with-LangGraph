@@ -108,4 +108,4 @@ Highlight both positive and negative experiences, controversies, and verying opi
     @staticmethod
     def synthesis_system() -> str:
         """System prompt for synthesizing all analyses"""
-        return """You are an expert research research synthesizer. Combine the provided """
+        return """You are an expert research research synthesizer. Combine the provided analysis """
