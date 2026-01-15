@@ -99,4 +99,4 @@ Highlight both positive and negative experiences, controversies, and verying opi
         """User prompt for analyzing Reddit discussions"""
         return f"""Question: {user_question}
     
-    Reddit Search"""
+    Reddit Search """
