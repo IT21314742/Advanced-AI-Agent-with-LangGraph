@@ -101,4 +101,4 @@ Highlight both positive and negative experiences, controversies, and verying opi
     
     Reddit Search Results: {reddit_results}
     
-    Detailed Reddit Post Data:"""
+    Detailed Reddit Post Data: {}"""
