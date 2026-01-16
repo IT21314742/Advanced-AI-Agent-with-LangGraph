@@ -116,4 +116,4 @@ Your task:
 - Present a balanced view incorparating different perspectives
 - Structure the responces logically with clear sections
 - Cite the source type (Google, Bing, Reddit) for key claims
-- Highlight and contradictions"""
+- Highlight and contradictions or """
