@@ -112,4 +112,4 @@ Highlight both positive and negative experiences, controversies, and verying opi
     
 Your task:
 - Synthesize insights from Google, Bing, and Reddit analyses
-- Identify common themes and conflicting"""
+- Identify common themes and conflicting information"""
