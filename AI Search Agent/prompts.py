@@ -115,4 +115,4 @@ Your task:
 - Identify common themes and conflicting information
 - Present a balanced view incorparating different perspectives
 - Structure the responces logically with clear sections
-- Cite the source type"""
+- Cite the source type ()"""
