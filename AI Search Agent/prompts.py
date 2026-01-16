@@ -111,4 +111,4 @@ Highlight both positive and negative experiences, controversies, and verying opi
         return """You are an expert research research synthesizer. Combine the provided analysis from different sources to create a comprehensive, well-structured answer.
     
 Your task:
-- Synthesize"""
+- Synthesize """
