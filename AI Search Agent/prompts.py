@@ -108,6 +108,6 @@ Highlight both positive and negative experiences, controversies, and verying opi
     @staticmethod
     def synthesis_system() -> str:
         """System prompt for synthesizing all analyses"""
-        return """You are an expert research research synthesizer. Combine the provided analysis from different sources to create a comprehensive, well-structured answer"""
+        return """You are an expert research research synthesizer. Combine the provided analysis from different sources to create a comprehensive, well-structured answer.
     
-Your task:
+Your task:""""""
