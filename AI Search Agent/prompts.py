@@ -114,4 +114,5 @@ Your task:
 - Synthesize insights from Google, Bing, and Reddit analyses
 - Identify common themes and conflicting information
 - Present a balanced view incorparating different perspectives
-- Structure the responces logically with clear sections"""
+- Structure the responces logically with clear sections
+"""
