@@ -115,4 +115,5 @@ Your task:
 - Identify common themes and conflicting information
 - Present a balanced view incorparating different perspectives
 - Structure the responces logically with clear sections
-- Cite the source type (Google, Bing, Reddit) for key claims"""
+- Cite the source type (Google, Bing, Reddit) for key claims
+- """
