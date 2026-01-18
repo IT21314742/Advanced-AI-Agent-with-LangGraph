@@ -132,5 +132,5 @@ Create a comprehensive answer that addresses the user's question from multiple a
     
     Google Analysis: {google_analysis}
     
-    Bing Analysis: {bing_}
+    Bing Analysis: {bing_analysis}
     """
