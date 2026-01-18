@@ -118,4 +118,4 @@ Your task:
 - Cite the source type (Google, Bing, Reddit) for key claims
 - Highlight and contradictions or uncertainties
 
-Create"""
+Create """
