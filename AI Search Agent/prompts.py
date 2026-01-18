@@ -123,4 +123,5 @@ Create a comprehensive answer that addresses the user's question from multiple a
     @staticmethod
     def synthesis_user(
         user_question: str,
+        
     )
