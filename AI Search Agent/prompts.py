@@ -124,5 +124,5 @@ Create a comprehensive answer that addresses the user's question from multiple a
     def synthesis_user(
         user_question: str,
         google_analysis: str,
-        bing_analysis:
+        bing_analysis: str
     )
