@@ -118,4 +118,4 @@ Your task:
 - Cite the source type (Google, Bing, Reddit) for key claims
 - Highlight and contradictions or uncertainties
 
-Create a comprehensive answer that addresses the user's question from"""
+Create a comprehensive answer that addresses the user's question from multiple"""
