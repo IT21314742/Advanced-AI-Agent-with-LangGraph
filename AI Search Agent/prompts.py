@@ -3,7 +3,7 @@ from typing import Dict, Any
 
 class PromptsTemplates:
     """Container for all prompt templates used in the research assistant."""
-    
+
     @staticmethod
     def reddit_url_analysis_system() -> str:
         """System prompt for analyzing Reddit URLs."""
@@ -28,7 +28,7 @@ Return a structured response with the selected URLs."""
 reddit Results: {reddit_results}
 
 Please analyze these reddit results and identify the most valuable posts for answering the user's question."""
-    
+
     @staticmethod
     def google_analysis_system() -> str:
         """System prompt for analyzing google search results."""
@@ -74,7 +74,7 @@ Provide a concise analysis highlighting unique findings and perspectives"""
 Bing Search Results: {bing_results}
 
 Please analyze these results and extract insights that complement other search sources."""
-    
+
     @staticmethod
     def reddit_analysis_system() -> str:
         """System prompt for analyzing reddit discussions."""
@@ -104,7 +104,7 @@ Highlight both positive and negative experiences, controversies, and verying opi
     Detailed Reddit Post Data: {reddit_post_data}
     
     Please analyze this reddit content and extract community insights, user experience, and relevant discussions."""
-    
+
     @staticmethod
     def synthesis_system() -> str:
         """System prompt for synthesizing all analyses"""
@@ -113,7 +113,8 @@ Highlight both positive and negative experiences, controversies, and verying opi
 Your task:
 - Synthesize insights from Google, Bing, and Reddit analyses
 - Identify common themes and conflicting information
-- Present a balanced view incorparating different perspectives
+- Present a balanced view incorporating different perspectives
 - Structure the responses logically with clear sections
 - Cite the source type (Google, Bing, Reddit) for key claims
 - Highlight and contradictions or uncertainties"""
+
