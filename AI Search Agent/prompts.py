@@ -127,4 +127,4 @@ Create a comprehensive answer that addresses the user's question from multiple a
         bing_analysis: str,
         reddit_analysis: str,
     ) -> str:
-        """User prompt"""
+        """User prompt """
