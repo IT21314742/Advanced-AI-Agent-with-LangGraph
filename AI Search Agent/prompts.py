@@ -116,6 +116,6 @@ Your task:
 - Present a balanced view incorporating different perspectives
 - Structure the responses logically with clear sections
 - Cite the source type (Google, Bing, Reddit) for key claims
-- Highlight and contradictions or uncertainties"""
+- Highlight and contradictions or uncertainties
 
-Create
+Create"""
