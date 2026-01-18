@@ -128,4 +128,4 @@ Create a comprehensive answer that addresses the user's question from multiple a
         reddit_analysis: str,
     ) -> str:
         """User prompt for synthesizing all analysis"""
-        return f"""Question: {user_}
+        return f"""Question: {user_question}
