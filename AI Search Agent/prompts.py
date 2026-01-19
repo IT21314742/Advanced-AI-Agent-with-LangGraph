@@ -134,5 +134,5 @@ Create a comprehensive answer that addresses the user's question from multiple a
     
     Bing Analysis: {bing_analysis}
     
-    Reddit Community Analysis: {reddit}
+    Reddit Community Analysis: {reddit_}
     """
