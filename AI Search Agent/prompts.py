@@ -136,5 +136,5 @@ Create a comprehensive answer that addresses the user's question from multiple a
     
     Reddit Community Analysis: {reddit_analysis}
 
-    Please synthesize these analysis into 
+    Please synthesize these analysis into a
     """
