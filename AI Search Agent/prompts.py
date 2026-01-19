@@ -145,5 +145,5 @@ Create a comprehensive answer that addresses the user's question from multiple a
 
         args:
             system_prompt: The system message content.
-            user_prompt: The user message content
+            user_prompt: The user message content.
         """
