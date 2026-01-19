@@ -139,4 +139,4 @@ Create a comprehensive answer that addresses the user's question from multiple a
     Please synthesize these analysis into a comprehensive answer that addresses the question from multiple perspectives."""
 
 
-    def create_message_pair(system_prompts: str, user):
+    def create_message_pair(system_prompts: str, user_):
