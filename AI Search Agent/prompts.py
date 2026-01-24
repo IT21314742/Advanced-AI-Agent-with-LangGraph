@@ -151,5 +151,5 @@ Create a comprehensive answer that addresses the user's question from multiple a
             List containing system and user message dictionaries
         """
         return [
-            {"role": }
+            {"role": "system"}
         ]
