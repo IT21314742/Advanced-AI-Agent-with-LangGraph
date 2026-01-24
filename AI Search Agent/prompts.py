@@ -181,4 +181,6 @@ def get_bing_analysis_messages(
         user_question: str, bing_results: str
 ) -> list[Dict[str, Any]]:
     """Get messages for Bing discussions analysis."""
-    return create_message_pair
+    return create_message_pair(
+        
+    )
