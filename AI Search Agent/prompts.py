@@ -162,4 +162,4 @@ def get_reddit_url_analysis_message(
         user_question: str, reddit_results: str
 ) -> list[Dict[str, Any]]:
     """Get message for Reddit URL Analysis"""
-    return
+    return create_message_pair
