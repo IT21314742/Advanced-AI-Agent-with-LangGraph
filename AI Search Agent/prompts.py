@@ -152,4 +152,5 @@ Create a comprehensive answer that addresses the user's question from multiple a
         """
         return [
             {"role": "system": system_prompt},
+            {"role"}
         ]
