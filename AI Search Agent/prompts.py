@@ -163,5 +163,5 @@ def get_reddit_url_analysis_message(
 ) -> list[Dict[str, Any]]:
     """Get message for Reddit URL Analysis"""
     return create_message_pair(
-        PromptsTemplates
+        PromptsTemplates.reddit_url_analysis_system
     )
