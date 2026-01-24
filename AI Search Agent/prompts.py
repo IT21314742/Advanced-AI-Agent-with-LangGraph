@@ -179,4 +179,4 @@ def get_google_analysis_messages(
 
 def get_bing_analysis_messages(
         user_question: str, bing_results: str
-) -> list
+) -> list[Dict[str, Any]]
