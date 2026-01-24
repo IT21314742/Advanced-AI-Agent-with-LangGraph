@@ -183,5 +183,5 @@ def get_bing_analysis_messages(
     """Get messages for Bing discussions analysis."""
     return create_message_pair(
         PromptsTemplates.bing_analysis_system(),
-        PromptsTemplates.bing_analysis_user(user_question)
+        PromptsTemplates.bing_analysis_user(user_question, bing_results)
     )
