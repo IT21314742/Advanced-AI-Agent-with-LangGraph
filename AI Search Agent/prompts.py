@@ -182,5 +182,6 @@ def get_bing_analysis_messages(
 ) -> list[Dict[str, Any]]:
     """Get messages for Bing discussions analysis."""
     return create_message_pair(
-        PromptsTemplates.bing_analysis_system
+        PromptsTemplates.bing_analysis_system(),
+        
     )
