@@ -188,5 +188,5 @@ def get_bing_analysis_messages(
 
 
 def get_reddit_analysis_messages(
-        user_question:
+        user_question: str,
 )
