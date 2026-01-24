@@ -150,4 +150,6 @@ Create a comprehensive answer that addresses the user's question from multiple a
          Returns:   
             List containing system and user message dictionaries
         """
-        
+        return [
+            
+        ]
