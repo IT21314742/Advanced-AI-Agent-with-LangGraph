@@ -172,5 +172,5 @@ def get_google_analysis_messages(
 ) -> list[Dict[str, Any]]:
     """Get messages for Google results analysis"""
     return create_message_pair(
-        PromptsTemplates.
+        PromptsTemplates.bing_analysis_system
     )
