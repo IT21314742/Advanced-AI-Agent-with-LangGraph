@@ -177,4 +177,4 @@ def get_google_analysis_messages(
     )
 
 
-def get_bing_analysis_messages
+def get_bing_analysis_messages()
