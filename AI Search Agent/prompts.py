@@ -173,5 +173,5 @@ def get_google_analysis_messages(
     """Get messages for Google results analysis"""
     return create_message_pair(
         PromptsTemplates.bing_analysis_system(),
-        PromptsTemplates
+        PromptsTemplates.bing_analysis_user
     )
