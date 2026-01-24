@@ -157,4 +157,4 @@ Create a comprehensive answer that addresses the user's question from multiple a
 
 
 
-# Convenience functions
+# Convenience functions for creating complete message arrays
