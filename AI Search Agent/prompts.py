@@ -171,4 +171,4 @@ def get_google_analysis_messages(
         user_question: str, google_results: str
 ) -> list[Dict[str, Any]]:
     """Get messages for Google results analysis"""
-    
+    return create_message_pair
