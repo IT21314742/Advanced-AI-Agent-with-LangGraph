@@ -164,5 +164,5 @@ def get_reddit_url_analysis_message(
     """Get message for Reddit URL Analysis"""
     return create_message_pair(
         PromptsTemplates.reddit_url_analysis_system(),
-        PromptsTemplates.reddit_url_analysis_user(user_question)
+        PromptsTemplates.reddit_url_analysis_user(user_question, )
     )
