@@ -168,5 +168,5 @@ def get_reddit_url_analysis_message(
     )
 
 def get_google_analysis_messages(
-        user_question: str, google_results
+        user_question: str, google_results: str
 )
