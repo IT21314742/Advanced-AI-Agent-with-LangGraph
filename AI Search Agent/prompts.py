@@ -176,3 +176,4 @@ def get_google_analysis_messages(
         PromptsTemplates.bing_analysis_user(user_question, bing_results),
     )
 
+
