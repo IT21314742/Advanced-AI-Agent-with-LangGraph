@@ -185,3 +185,4 @@ def get_bing_analysis_messages(
         PromptsTemplates.bing_analysis_system(),
         PromptsTemplates.bing_analysis_user(user_question, bing_results),
     )
+
