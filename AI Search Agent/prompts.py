@@ -195,5 +195,5 @@ def get_reddit_analysis_messages(
         PromptsTemplates.reddit_analysis_system(),
         PromptsTemplates.reddit_analysis_user(
             user_question, reddit_results, reddit_post_data
-        )
+        ),
     )
