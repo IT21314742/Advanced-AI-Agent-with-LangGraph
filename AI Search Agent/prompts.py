@@ -192,5 +192,5 @@ def get_reddit_analysis_messages(
 ) -> list[Dict[str,Any]]:
     """Get messages for Reddit discussions analysis."""
     return create_message_pair(
-        
+        PromptsTemplates
     )
