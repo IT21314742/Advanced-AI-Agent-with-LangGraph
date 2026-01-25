@@ -194,6 +194,6 @@ def get_reddit_analysis_messages(
     return create_message_pair(
         PromptsTemplates.reddit_analysis_system(),
         PromptsTemplates.reddit_analysis_user(
-            user_question, reddit_results,
+            user_question, reddit_results, 
         )
     )
