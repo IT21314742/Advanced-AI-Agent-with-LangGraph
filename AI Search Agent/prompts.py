@@ -193,5 +193,5 @@ def get_reddit_analysis_messages(
     """Get messages for Reddit discussions analysis."""
     return create_message_pair(
         PromptsTemplates.reddit_analysis_system(),
-        PromptsTemplates
+        PromptsTemplates.reddit_analysis_user
     )
