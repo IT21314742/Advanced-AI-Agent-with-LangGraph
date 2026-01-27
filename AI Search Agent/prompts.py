@@ -199,5 +199,5 @@ def get_reddit_analysis_messages(
     )
     
 def get_synthesis_messages(
-    user_question: str, google_analysis: str, bing_analysis: str, reddit_analysis
+    user_question: str, google_analysis: str, bing_analysis: str, reddit_analysis:
 )                                                                       
