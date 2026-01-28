@@ -9,5 +9,5 @@ load_dotenv()
 
 
 def poll_snapshot_status(
-       snapshot_
+       snapshot_id
 )
