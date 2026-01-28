@@ -203,5 +203,5 @@ def get_synthesis_messages(
 ) -> list[Dict[str, Any]]:
     """Get messages for final synthesis."""
     return create_message_pair(
-        
+        PromptsTemplates
     )
