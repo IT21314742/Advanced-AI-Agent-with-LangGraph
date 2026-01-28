@@ -205,6 +205,6 @@ def get_synthesis_messages(
     return create_message_pair(
         PromptsTemplates.synthesis_system(),
         PromptsTemplates.synthesis_user(
-            
+            user
         )
     )
