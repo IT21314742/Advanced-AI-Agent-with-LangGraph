@@ -206,5 +206,5 @@ def get_synthesis_messages(
         PromptsTemplates.synthesis_system(),
         PromptsTemplates.synthesis_user(
             user_question, google_analysis, bing_analysis, reddit_analysis
-        )
+        ),
     )
