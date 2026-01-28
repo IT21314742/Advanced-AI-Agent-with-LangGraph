@@ -14,3 +14,4 @@ def poll_snapshot_status(
     api_key = os.getenv("BRIGHTDATA_API_KEY")
     progress_url = f"https://api.brightdata.com/datasets/v3/progress/{snapshot_id}"
     headers = {"Authorization": f"Bearer {api_key}"}
+    
