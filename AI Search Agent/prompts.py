@@ -204,4 +204,5 @@ def get_synthesis_messages(
     """Get messages for final synthesis."""
     return create_message_pair(
         PromptsTemplates.synthesis_system(),
+        
     )
