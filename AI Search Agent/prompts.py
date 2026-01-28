@@ -202,4 +202,4 @@ def get_synthesis_messages(
     user_question: str, google_analysis: str, bing_analysis: str, reddit_analysis: str
 ) -> list[Dict[str, Any]]:
     """Get messages for final synthesis."""
-    return create_message_pair
+    return create_message_pair()
