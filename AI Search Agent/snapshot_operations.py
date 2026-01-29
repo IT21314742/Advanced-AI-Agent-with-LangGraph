@@ -21,4 +21,4 @@ def poll_snapshot_status(
                 f"⏳ Checking snapshot progress... (attempt {attempt + 1}/{max_attempts})"
             )
 
-            response = requests.get
+            response = requests.get(progress_url)
