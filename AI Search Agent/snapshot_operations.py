@@ -33,3 +33,4 @@ def poll_snapshot_status(
                 return True
             elif status == "failed":
                 print("❌ Snapshot failed")
+                return
