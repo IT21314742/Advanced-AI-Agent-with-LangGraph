@@ -42,4 +42,4 @@ def poll_snapshot_status(
                 time.sleep(delay)
 
        except Exception as e:
-              print
+              print(f)
