@@ -45,4 +45,4 @@ def poll_snapshot_status(
               print(f"⚠️ Error checking progress: {e}")
               time.sleep(delay)
     print("⏰ Timeout waiting for snapshot completion")
-    
+    return False
