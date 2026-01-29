@@ -31,4 +31,4 @@ def poll_snapshot_status(
             if status == "ready":
                 print("✅ Snapshot completed!")
                 return True
-            elif status == 
+            elif status == "failed"
