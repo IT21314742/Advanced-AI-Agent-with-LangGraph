@@ -16,4 +16,4 @@ def poll_snapshot_status(
     headers = {"Authorization": f"Bearer {api_key}"}
 
     for attempt in range(max_attempts):
-        try
+        try:
