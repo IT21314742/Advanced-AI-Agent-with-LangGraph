@@ -15,4 +15,4 @@ def poll_snapshot_status(
     progress_url = f"https://api.brightdata.com/datasets/v3/progress/{snapshot_id}"
     headers = {"Authorization": f"Bearer {api_key}"}
 
-    for attempt in range
+    for attempt in range()
