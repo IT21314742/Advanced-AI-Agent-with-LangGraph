@@ -36,4 +36,4 @@ def poll_snapshot_status(
                 return False
             elif status == "running":
                 print("🔄️ Still Processing")
-                time
+                time.sleep
