@@ -26,4 +26,4 @@ def poll_snapshot_status(
 
 
             progress_data = response.json()
-            
+            status
