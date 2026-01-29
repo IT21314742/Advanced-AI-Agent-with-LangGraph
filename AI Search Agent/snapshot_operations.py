@@ -39,4 +39,4 @@ def poll_snapshot_status(
                 time.sleep(delay)
              else:
                 print(f"❓ Unknown status: {status}")
-                time.sleep
+                time.sleep(delay)
