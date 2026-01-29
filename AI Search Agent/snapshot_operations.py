@@ -23,3 +23,4 @@ def poll_snapshot_status(
 
             response = requests.get(progress_url, headers=headers)
             response.raise_for_status()
+            
