@@ -41,4 +41,4 @@ def poll_snapshot_status(
                 print(f"❓ Unknown status: {status}")
                 time.sleep(delay)
 
-       except
+       except Exception
