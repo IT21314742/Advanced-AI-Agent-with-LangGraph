@@ -28,4 +28,4 @@ def poll_snapshot_status(
             progress_data = response.json()
             status = progress_data.get("status")
 
-            if status == 
+            if status == "ready"
