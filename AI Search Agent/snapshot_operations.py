@@ -38,4 +38,4 @@ def poll_snapshot_status(
                 print("🔄️ Still Processing")
                 time.sleep(delay)
              else:
-                print
+                print()
