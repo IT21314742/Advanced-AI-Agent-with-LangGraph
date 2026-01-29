@@ -29,4 +29,4 @@ def poll_snapshot_status(
             status = progress_data.get("status")
 
             if status == "ready":
-                
+                print("")
