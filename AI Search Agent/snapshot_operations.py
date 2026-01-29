@@ -18,5 +18,6 @@ def poll_snapshot_status(
     for attempt in range(max_attempts):
         try:
             print(
-                f"⏳ Checking snapshot progress... (attempt {attempt + 1})"
+                f"⏳ Checking snapshot progress... (attempt {attempt + 1}/{max_attempts})"
             )
+            
