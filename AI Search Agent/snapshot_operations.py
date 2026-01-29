@@ -34,4 +34,4 @@ def poll_snapshot_status(
             elif status == "failed":
                 print("❌ Snapshot failed")
                 return False
-            elif status == 
+            elif status == "running"
