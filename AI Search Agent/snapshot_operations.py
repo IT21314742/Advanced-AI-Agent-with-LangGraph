@@ -52,4 +52,6 @@ def download_snapshot(
     snapshot_id: str, format: str = "json"
 ) -> Optional[List[Dict[Any, any]]]:
      api_key = os.getenv("BRIGHTDATA_API_KEY")
-     download_url = ()
+     download_url = (
+          
+     )
