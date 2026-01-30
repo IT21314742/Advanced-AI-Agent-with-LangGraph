@@ -56,3 +56,4 @@ def download_snapshot(
           f"https://api.brightdata.com/datasets/v3/snapshot/{snapshot_id}?format={format}"
      )
      headers = {"Authorization": f"Bearer {api_key}"}
+     
