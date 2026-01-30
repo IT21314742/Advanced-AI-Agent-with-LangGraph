@@ -48,4 +48,6 @@ def poll_snapshot_status(
     return False
 
 
-def download_snapshot()
+def download_snapshot(
+          
+)
