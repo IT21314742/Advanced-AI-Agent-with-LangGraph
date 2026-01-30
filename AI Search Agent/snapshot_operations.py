@@ -49,5 +49,5 @@ def poll_snapshot_status(
 
 
 def download_snapshot(
-    snapshot_id:
+    snapshot_id: str,
 )
