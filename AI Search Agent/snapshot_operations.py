@@ -63,3 +63,4 @@ def download_snapshot(
 
           response = requests.get(download_url, headers=headers)
           response = raise_for_status()
+          
