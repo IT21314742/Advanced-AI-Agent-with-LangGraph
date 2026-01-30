@@ -55,3 +55,4 @@ def download_snapshot(
      download_url = (
           f"https://api.brightdata.com/datasets/v3/snapshot/{snapshot_id}?format={format}"
      )
+     
