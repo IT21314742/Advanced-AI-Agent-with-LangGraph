@@ -58,4 +58,4 @@ def download_snapshot(
      headers = {"Authorization": f"Bearer {api_key}"}
 
      try:
-          print("📩 Downloading snapshot")
+          print("📩 Downloading snapshot data")
