@@ -51,4 +51,4 @@ def poll_snapshot_status(
 def download_snapshot(
     snapshot_id: str, format: str = "json"
 ) -> Optional[List[Dict[Any, any]]]:
-     api_key = 
+     api_key = os
