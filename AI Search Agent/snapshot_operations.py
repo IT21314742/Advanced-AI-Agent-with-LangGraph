@@ -61,4 +61,4 @@ def download_snapshot(
           print("📩 Downloading snapshot data...")
 
 
-          response = requests.get(download_url, headers=)
+          response = requests.get(download_url, headers=headers)
