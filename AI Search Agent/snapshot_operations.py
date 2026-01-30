@@ -57,4 +57,4 @@ def download_snapshot(
      )
      headers = {"Authorization": f"Bearer {api_key}"}
 
-     
+     try
