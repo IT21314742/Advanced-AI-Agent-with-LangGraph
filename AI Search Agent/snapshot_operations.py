@@ -53,5 +53,5 @@ def download_snapshot(
 ) -> Optional[List[Dict[Any, any]]]:
      api_key = os.getenv("BRIGHTDATA_API_KEY")
      download_url = (
-          
+          f""
      )
