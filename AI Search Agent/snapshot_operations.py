@@ -70,4 +70,4 @@ def download_snapshot(
           )
 
 
-          
+          return
