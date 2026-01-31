@@ -65,4 +65,6 @@ def download_snapshot(
           response = raise_for_status()
 
           data = response.json()
-          print()
+          print(
+               
+          )
