@@ -73,4 +73,4 @@ def download_snapshot(
           return data
      
      except Exception as e:
-          print(f"❌ Error downloading")
+          print(f"❌ Error downloading snapshot")
