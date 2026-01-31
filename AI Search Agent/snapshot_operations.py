@@ -66,5 +66,5 @@ def download_snapshot(
 
           data = response.json()
           print(
-               f"🎉 Successfully download {}"
+               f"🎉 Successfully download {len}"
           )
