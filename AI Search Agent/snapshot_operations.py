@@ -72,4 +72,4 @@ def download_snapshot(
 
           return data
      
-     except Exception as
+     except Exception as e
