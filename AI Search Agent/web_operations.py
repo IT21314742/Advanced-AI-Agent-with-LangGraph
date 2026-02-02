@@ -20,3 +20,4 @@ def _make_api_requests(url, **kwargs):
 
     try:
         response = requests.post(url, headers=headers, **kwargs)
+        response.raise_for_status
