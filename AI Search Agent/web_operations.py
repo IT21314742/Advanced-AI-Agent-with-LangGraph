@@ -30,7 +30,7 @@ def _make_api_requests(url, **kwargs):
         return None
     
 def serp_search(query, engine="google"):
-    if engine == "google"
+    if engine == "google":
         base_url = "https://www.google.com/search"
-    
+    elif engine == "bing":
 
