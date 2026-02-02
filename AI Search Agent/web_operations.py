@@ -44,6 +44,7 @@ def serp_search(query, engine="google"):
         "url": f"{base_url}?q={quote_plus (query)}&brd_json=1",
         "format": "raw"
     }
+
     
 
 
