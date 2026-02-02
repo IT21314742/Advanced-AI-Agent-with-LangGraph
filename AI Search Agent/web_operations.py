@@ -53,7 +53,7 @@ def serp_search(query, engine="google"):
 
     extracted_data = {
         "knwoledge": full_response.get("knowledge", {}),
-        
+        "organic": full_response.get("organic", [])
     }
 
 
