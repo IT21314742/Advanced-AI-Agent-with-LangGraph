@@ -39,6 +39,8 @@ def serp_search(query, engine="google"):
     
     url = "https://api.brightdata.com/request"
 
-    payload = {}
+    payload = {
+        
+    }
 
 
