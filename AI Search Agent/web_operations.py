@@ -41,6 +41,7 @@ def serp_search(query, engine="google"):
 
     payload = {
         "zone": "api_agent",
+        "url": f"{base_url}?q={quote_plus (query)}&brd_json=1",
         
     }
 
