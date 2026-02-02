@@ -14,5 +14,5 @@ def _make_api_requests(url, **kwargs):
 
 
     headers = {
-        
+        "Authorization"
     }
