@@ -26,4 +26,4 @@ def _make_api_requests(url, **kwargs):
         print(f"API reuquest failed: {e}")
         return None
     except Exception as e:
-        
+        print (f"Unknown error:")
