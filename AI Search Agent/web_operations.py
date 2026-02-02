@@ -58,3 +58,4 @@ def serp_search(query, engine="google"):
     return extracted_data
 
 
+
