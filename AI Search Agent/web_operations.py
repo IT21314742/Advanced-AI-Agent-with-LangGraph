@@ -55,6 +55,6 @@ def serp_search(query, engine="google"):
         "knwoledge": full_response.get("knowledge", {}),
         "organic": full_response.get("organic", []),
     }
-    
+    return extracted_data
 
 
