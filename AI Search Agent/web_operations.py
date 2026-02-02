@@ -51,6 +51,8 @@ def serp_search(query, engine="google"):
         return None
     
 
-    extracted_data = 
+    extracted_data = {
+        
+    }
 
 
