@@ -45,6 +45,7 @@ def serp_search(query, engine="google"):
         "format": "raw"
     }
 
+
     
 
 
