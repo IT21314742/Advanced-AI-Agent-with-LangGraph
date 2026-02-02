@@ -15,5 +15,6 @@ def _make_api_requests(url, **kwargs):
 
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json"
+        "Content-Type": "application/json",
     }
+    
