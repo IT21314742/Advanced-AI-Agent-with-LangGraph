@@ -30,3 +30,4 @@ def _make_api_requests(url, **kwargs):
         return None
     
 def serp_search(query, engine="google"):
+    if engine
