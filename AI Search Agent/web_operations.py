@@ -63,6 +63,7 @@ def _trigger_and_download_snapshot(trigger_url, params, data, operatrion_name="o
     if not trigger_result:
         return None
     
-    snapshot_id = 
+    snapshot_id = trigger_result.get("snapshot_id")
+    
 
 
