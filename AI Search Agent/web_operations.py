@@ -25,4 +25,5 @@ def _make_api_requests(url, **kwargs):
     except requests.exceptions.RequestException as e:
         print(f"API reuquest failed: {e}")
         return None
-    except Exception as e
+    except Exception as e:
+        
