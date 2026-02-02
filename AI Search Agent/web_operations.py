@@ -13,4 +13,4 @@ def _make_api_requests(url, **kwargs):
     api_key = os.getenv("BRIGHTDATA_API_KEY")
 
 
-    
+    headers
