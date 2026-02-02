@@ -22,4 +22,4 @@ def _make_api_requests(url, **kwargs):
         response = requests.post(url, headers=headers, **kwargs)
         response.raise_for_status()
         return response.json()
-    except requests.exceptions.RequestException
+    except requests.exceptions.RequestException as e
