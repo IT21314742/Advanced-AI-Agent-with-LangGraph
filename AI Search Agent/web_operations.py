@@ -38,5 +38,6 @@ def serp_search(query, engine="google"):
         raise ValueError(f"Unknown engine {engine}")
     
     url = "https://api.brightdata.com/request"
+    
 
 
