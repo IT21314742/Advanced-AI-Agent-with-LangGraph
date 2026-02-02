@@ -18,4 +18,4 @@ def _make_api_requests(url, **kwargs):
         "Content-Type": "application/json",
     }
 
-    
+    try
