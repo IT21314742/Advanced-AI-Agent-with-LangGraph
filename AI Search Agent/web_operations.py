@@ -46,6 +46,6 @@ def serp_search(query, engine="google"):
     }
 
 
-    full_response = 
+    full_response = _make_api_requests
 
 
