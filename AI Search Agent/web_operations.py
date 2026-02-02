@@ -58,6 +58,6 @@ def serp_search(query, engine="google"):
     return extracted_data
 
 
-
+def _trigger_and_download_snapshot()
 
 
