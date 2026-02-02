@@ -40,7 +40,7 @@ def serp_search(query, engine="google"):
     url = "https://api.brightdata.com/request"
 
     payload = {
-        
+        "zone": "api_agent",
     }
 
 
