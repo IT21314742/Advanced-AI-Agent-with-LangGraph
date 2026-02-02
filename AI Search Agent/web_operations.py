@@ -50,5 +50,6 @@ def serp_search(query, engine="google"):
     if not full_response:
         return None
     
+    
 
 
