@@ -24,4 +24,4 @@ def _make_api_requests(url, **kwargs):
         return response.json()
     except requests.exceptions.RequestException as e:
         print(f"API reuquest failed: {e}")
-        return
+        return None
