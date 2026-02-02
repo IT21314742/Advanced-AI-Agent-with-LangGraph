@@ -35,5 +35,6 @@ def serp_search(query, engine="google"):
     elif engine == "bing":
         base_url == "https://www.bing.com/search"
     else
-        raise ValueError(f"Unknown engine {}")
+        raise ValueError(f"Unknown engine {engine}")
+    
 
