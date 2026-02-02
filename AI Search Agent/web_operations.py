@@ -62,5 +62,7 @@ def _trigger_and_download_snapshot(trigger_url, params, data, operatrion_name="o
     trigger_result = _make_api_requests(trigger_url, params=params, json=data)
     if not trigger_result:
         return None
+    
+    
 
 
