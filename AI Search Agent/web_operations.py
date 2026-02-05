@@ -75,6 +75,6 @@ def _trigger_and_download_snapshot(trigger_url, params, data, operatrion_name="o
 
 
 def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
-    trigger_url
+    trigger_url = 
 
 
