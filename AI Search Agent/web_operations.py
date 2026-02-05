@@ -70,5 +70,6 @@ def _trigger_and_download_snapshot(trigger_url, params, data, operatrion_name="o
     if not poll_snapshot_status(snapshot_id):
         return None
     
+    
 
 
