@@ -106,7 +106,7 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
     for post in raw_data:
         parsed_post = {
             "title": post.get("title"),
-            "url"
+            "url": 
         }
 
 
