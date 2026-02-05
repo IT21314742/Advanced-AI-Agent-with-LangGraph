@@ -95,6 +95,6 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
     ]
 
 
-    raw_data = 
+    raw_data = _trigger_and_download_snapshot
 
 
