@@ -103,5 +103,6 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
         return None
     
     parsed_data = []
+    for
 
 
