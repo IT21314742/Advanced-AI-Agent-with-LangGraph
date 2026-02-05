@@ -84,5 +84,6 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
         "type": "discover_new",
         "discover_new": "keyword"
     }
+    
 
 
