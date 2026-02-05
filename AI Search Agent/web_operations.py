@@ -80,7 +80,8 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
 
     params = {
         "dataset_id": "gd_lvz8ah06191smkebj4",
-        "include_errors": "true"
+        "include_errors": "true",
+        
     }
 
 
