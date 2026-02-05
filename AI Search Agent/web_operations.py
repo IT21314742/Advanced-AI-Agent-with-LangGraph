@@ -99,6 +99,6 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
         trigger_url, params, data, operatrion_name="reddit"
     )
 
-    if not
+    if not raw_data
 
 
