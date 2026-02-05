@@ -71,6 +71,6 @@ def _trigger_and_download_snapshot(trigger_url, params, data, operatrion_name="o
         return None
     
     raw_data = download_snapshot(snapshot_id)
-    return
+    return raw_data
 
 
