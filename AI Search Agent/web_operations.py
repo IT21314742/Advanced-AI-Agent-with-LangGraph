@@ -78,6 +78,6 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
     trigger_url = "https://api.brightdata.com/datasets/v3/trigger"
 
 
-    params
+    params = {}
 
 
