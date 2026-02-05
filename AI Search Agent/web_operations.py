@@ -90,7 +90,7 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
             "keyword": keyword,
             "date": date,
             "sort_by": sort_by,
-            ""
+            "num_of_posts"
         }
     ]
 
