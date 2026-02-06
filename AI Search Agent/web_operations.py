@@ -110,5 +110,5 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
         }
         parsed_data.append(parsed_post)
 
-    return {"parsed_posts": parsed_data, "total_found": len}
+    return {"parsed_posts": parsed_data, "total_found": len(parsed_data)}
 
