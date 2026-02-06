@@ -140,4 +140,4 @@ raw_data = _trigger_and_download_snapshot(
 if not raw_data:
     return None
 
-parsed_comments = 
+parsed_comments = []
