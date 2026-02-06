@@ -131,6 +131,6 @@ def reddit_post_retrieval(urls, days_back=10, load_all_replies=False, comment_li
             "load_all_replies": load_all_replies,
             "comment_limit": comment_limit
         }
-        for
+        for url in urls
     ]
 
