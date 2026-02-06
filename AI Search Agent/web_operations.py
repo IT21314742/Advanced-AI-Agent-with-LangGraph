@@ -142,3 +142,4 @@ if not raw_data:
 
 parsed_comments = []
 for comment in raw_data:
+    
