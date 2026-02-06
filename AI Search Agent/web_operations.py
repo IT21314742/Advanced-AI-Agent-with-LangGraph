@@ -141,4 +141,4 @@ if not raw_data:
     return None
 
 parsed_comments = []
-for comment
+for comment in raw_data
