@@ -135,5 +135,5 @@ def reddit_post_retrieval(urls, days_back=10, load_all_replies=False, comment_li
     ]
 
 raw_data = _trigger_and_download_snapshot(
-    trigger_url, 
+    trigger_url, params
 )
