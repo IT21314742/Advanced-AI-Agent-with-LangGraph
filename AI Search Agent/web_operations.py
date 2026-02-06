@@ -109,5 +109,6 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
             "url": post.get("url")
         }
         parsed_data.append(parsed_post)
+
         
 
