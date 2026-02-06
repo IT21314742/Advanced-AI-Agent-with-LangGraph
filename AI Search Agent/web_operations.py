@@ -115,4 +115,5 @@ def reddit_search_api(keyword, date="All time", sort_by="hot", num_of_posts=75):
 def reddit_post_retrieval(urls, days_back=10, load_all_replies=False, comment_limit=""):
     if not urls:
         return None
+    
 
