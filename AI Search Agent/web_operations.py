@@ -138,4 +138,4 @@ raw_data = _trigger_and_download_snapshot(
     trigger_url, params, data, operatrion_name="reddit comments"
 )
 if not raw_data:
-    
+    return
