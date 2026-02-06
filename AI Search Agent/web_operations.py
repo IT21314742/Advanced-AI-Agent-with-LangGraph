@@ -120,6 +120,6 @@ def reddit_post_retrieval(urls, days_back=10, load_all_replies=False, comment_li
     trigger_url = "https://api.brightdata.com/datasets/v3/trigger"
 
     params = {
-        
+        "dataset_id"
     }
 
