@@ -147,4 +147,4 @@ for comment in raw_data:
         "content": comment.get("comment"),
         "date": comment.get("date"), 
     }
-    
+    parsed_comments.append
