@@ -149,4 +149,4 @@ for comment in raw_data:
     }
     parsed_comments.append(parsed_comment)
 
-    return {"comments"}
+    return {"comments": parsed_comments,}
