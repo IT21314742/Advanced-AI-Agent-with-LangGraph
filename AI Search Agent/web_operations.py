@@ -144,5 +144,6 @@ parsed_comments = []
 for comment in raw_data:
     parsed_comment = {
         "comment_id": comment.get("comment_id"),
-        "content": comment.get("comment"), 
+        "content": comment.get("comment"),
+        "date": comment.get("date"), 
     }
