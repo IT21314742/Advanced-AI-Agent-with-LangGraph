@@ -148,4 +148,5 @@ for comment in raw_data:
         "date": comment.get("date"), 
     }
     parsed_comments.append(parsed_comment)
+
     
